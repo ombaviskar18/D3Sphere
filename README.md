@@ -24,10 +24,4 @@ Ensure you have the following installed:
 - **Node.js** (version 16 or higher recommended)
 - **npm** or **yarn**
 
-### Steps
 
-1. **Clone the Repository**:
-
-   ```bash
-   git clone <repository-url>
-   cd <project-directory>
